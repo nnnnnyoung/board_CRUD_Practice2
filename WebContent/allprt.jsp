@@ -51,7 +51,7 @@
 				}else if(svo.getGrade().equals("4")){
 					out.print("D");
 				}
-				out.print("</td>");				
+				out.print("</td>");		 		
 				out.print("</tr>");
 			}
 		%>

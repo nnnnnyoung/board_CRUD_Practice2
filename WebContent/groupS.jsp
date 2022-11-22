@@ -44,7 +44,7 @@
 				out.print("<td>"+gvo.getPn()+"</td>");
 				out.print("<td>"+gvo.getId().substring(0,10)+"</td>");				
 				out.print("</tr>");
-			}
+			}  
 		%>
 		
 		</table>

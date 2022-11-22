@@ -23,7 +23,7 @@ public class allprt extends HttpServlet {
     /**
      * @see HttpServlet#HttpServlet()
      */
-    public allprt() {
+    public allprt() { 
         super();
         // TODO Auto-generated constructor stub
     }

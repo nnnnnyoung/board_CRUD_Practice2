@@ -21,4 +21,4 @@
 	<a href="groupS">[학생별 신청내역]</a>
 	</nav>
 </body>
-</html>
+</html> 

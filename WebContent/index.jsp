@@ -12,4 +12,4 @@
 	<%@ include file="section.jsp"%>
 	<%@ include file="footer.jsp"%>
 </body>
-</html>
+</html> 

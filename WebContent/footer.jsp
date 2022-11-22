@@ -19,4 +19,4 @@
 	<footer > <center>우) 16472 경기 수원시 팔달구 세지로 254 (인계동, 수원공업고등학교) 수원공업고등학교Tel : 031-8006-1200Fax : 031-8006-1250
 Copyright (c) 수원공업고등학교. All Rights Reserved.</center></footer>
 </body>
-</html>
+</html> 

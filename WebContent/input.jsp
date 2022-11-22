@@ -15,7 +15,7 @@
 	}
 	table{
 		text-align: center;
-	}
+	} 
 </style>
 <body>
 	<%@ include file="header.jsp"%>
